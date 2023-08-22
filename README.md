@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Rati Kipshidze from Georgia<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning python<br>- ⚡ In my free time I swim, listen to music, hang out and etc.</p>
+<p align="left">I'm Rati Kipshidze from Georgia<br><br>- 🔭 I’m working as a web developer<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I swim, listen to music, hang out and etc.</p>
 
 ###
 
