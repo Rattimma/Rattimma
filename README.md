@@ -78,5 +78,5 @@
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-https://spotify-recently-played-readme.vercel.app/api?user=31l67hglce2akqn3xm5ho6oxmz6y&count={1 < count > 15}
+https://spotify-recently-played-readme.vercel.app/api?user=31l67hglce2akqn3xm5ho6oxmz6y&count={10}
 
